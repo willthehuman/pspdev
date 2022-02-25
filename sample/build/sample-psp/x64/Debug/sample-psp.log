@@ -1,0 +1,6 @@
+﻿  make: psp-config: Command not found
+  makefile:24: /lib/build.mak: No such file or directory
+  make: *** No rule to make target '/lib/build.mak'.  Stop.
+  pspdev
+  The system cannot find the file specified.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: The command "C:\examples.pspdev\projects\sample\visual-studio\..\psp-make.bat" exited with code 1.
